@@ -4,7 +4,7 @@ Practice to get better at coding by solve at least one problem every day
 
 ## Getting Started
 Use VirtualEnv
-/mnt/e/FALL2020/leetCodeDailyPractice/leetCode# source bin/activate
+/mnt/e/FALL2020/leetCodeDailyPractice/venv# source bin/activate
 
 ### Prerequisites
 
